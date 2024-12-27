@@ -2,6 +2,12 @@
 
 Este é um programa interativo em Python que converte valores entre diferentes moedas utilizando a API Open Exchange Rates. O programa suporta conversões entre USD (Dólar), BRL (Real) e Bitcoin.
 
+> **Nota**: Este repositório é uma melhoria de projetos anteriores que desenvolvi há algum tempo. Ao longo do tempo, fui aprimorando as funcionalidades e tornando o código mais modular e eficiente. Esse novo projeto reflete esses avanços, adicionando novas conversões e aprimorando a interface de usuário, agora mais interativa e fácil de usar.
+
+Você pode conferir os projetos anteriores nos links abaixo:
+- [Projeto 1 - Conversor de USD para BRL](https://github.com/Henry0005/Finance-API)
+- [Projeto 2 - Conversor de Bitcoin para BRL e vice-versa](https://github.com/Henry0005/Finance-Bitcoin-API)
+
 ## Funcionalidades
 
 - **USD para BRL**: Converte valores de dólares americanos para reais brasileiros.
