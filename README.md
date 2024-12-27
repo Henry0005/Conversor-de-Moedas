@@ -62,6 +62,3 @@ Digite o valor em Dólares: 100
 100 USD é igual a 500.00 BRL
 ```
 
-## Personalização
-
-Para adicionar mais moedas ou ajustar as conversões existentes, altere os parâmetros de `from_currency` e `to_currency` na função `convert_currency`.
